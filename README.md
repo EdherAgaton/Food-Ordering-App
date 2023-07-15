@@ -14,7 +14,7 @@ Este es el proyecto final de iOS App Capstone, parte del programa Meta iOS Devel
 - Ability to save changes in the Profile screen that are retained when the app is restarted.
 
 <hr>
-## Características
+
 - Pantalla de incorporación que pide a los usuarios que introduzcan sus datos personales.
 - Navegación de pila que permite a los usuarios acceder a la pantalla anterior usando el botón Atrás.
 - Pantalla de inicio que presenta un encabezado, una sección de héroe, una sección de desglose del menú y una sección de lista de menú de alimentos.
