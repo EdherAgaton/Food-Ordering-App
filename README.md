@@ -1,7 +1,6 @@
 # Little Lemon Food Ordering App
 This is the final project for the iOS App Capstone, part of the Meta iOS Developer Professional Certificate program.
 <hr>
-# Aplicación de pedido de comida Little Lemon
 Este es el proyecto final de iOS App Capstone, parte del programa Meta iOS Developer Professional Certificate.
 
 
